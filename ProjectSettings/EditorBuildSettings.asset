@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Lab_Assets/Scenes/MainMenu.unity
+    guid: dd8ace8a9c0332e4483d53612ac25702
+  - enabled: 1
+    path: Assets/Lab_Assets/Scenes/Instruction.unity
+    guid: 1a7d7760be03aee4481933ff1c74e1db
+  - enabled: 1
+    path: Assets/Lab_Assets/Scenes/Setting.unity
+    guid: c7adfd21e7a670847b1190795cd01040
+  - enabled: 1
+    path: Assets/Lab_Assets/Scenes/End.unity
+    guid: 9dd0204e76ece2f4492bc31c6b3199e4
+  - enabled: 1
+    path: Assets/Lab_Assets/Scenes/ViewHighScores.unity
+    guid: 64f30ea111aa2f64487ad6990b276b73
+  - enabled: 1
+    path: Assets/Lab_Assets/Scenes/Level 1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Lab_Assets/Scenes/Level 2.unity
+    guid: a9e2777bdea2ab54e91693e776dcb897
+  - enabled: 1
+    path: Assets/Lab_Assets/Scenes/Level 3.unity
+    guid: ab1e94759c194d84297b1ae170f97304
+  - enabled: 1
+    path: Assets/Lab_Assets/Scenes/Level 4.unity
+    guid: 85a9d3ccde434d948960bebfca3e13b4
+  m_configObjects: {}
